@@ -25,7 +25,7 @@ https://cursos.alura.com.br/course/php-mysql-criando-primeira-aplicacao-web?utm_
 
 ### Preferências
 
-* PHP: manipulando coleções com Arrays ( Preferência )
+* PHP: manipulando coleções com Arrays ( Preferência andamento)
 ```
 https://cursos.alura.com.br/course/php-manipulando-colecoes-arrays/task/102156
 ```
